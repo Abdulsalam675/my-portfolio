@@ -29,9 +29,8 @@ function Hero() {
           </div>
         </div>
 
-        {/* RIGHT: Image / Content */}
+        {/* RIGHT: Image*/}
         <div className="md:col-span-2 flex justify-center md:justify-end sm:pt-6 lg:pt-14">
-          {/* Replace this with your actual image */}
           <div className="w-56 h-56 md:w-80 md:h-80 bg-gradient-to-br from-indigo-300 to-indigo-500 overflow-hidden p-1 shadow-lg rounded-full heroImage">
             <img
               src="./abdulsalam.jpg"

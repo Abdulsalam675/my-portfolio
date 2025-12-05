@@ -21,7 +21,7 @@ function App() {
 
     // Cleanup on unmount
     return () => observer.disconnect();
-  }, []); // ← Empty array = run once on mount
+  }, []);
 
   return <Layout />;
 }

@@ -9,7 +9,7 @@ import FixButton from "../components/FixButton";
 
 function Layout() {
   return (
-    <div className="min-h-screen w-full bg-[hsl(220,33%,98%)]">
+    <div className="min-h-screen w-full background">
       <Navbar />
       <FixButton />
       <Hero />
