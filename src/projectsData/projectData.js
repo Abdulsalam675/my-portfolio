@@ -41,6 +41,16 @@ export const projectData = [
     url: "https://movie-searcher-mu.vercel.app/",
     gitHub: "https://github.com/Abdulsalam675/movie-searcher",
   },
+  {
+    id: 4,
+    image: "./currency_converter_preview.jpg",
+    title: "Currency Converter Web App",
+    subTitle:
+      "A responsive currency converter that enables real-time currency conversion with dynamic selection and accurate exchange rates.",
+    skills: ["React.js", "Tailwind CSS", "API Integration"],
+    url: "https://currency-converter-fawn-eight.vercel.app",
+    gitHub: "https://github.com/Abdulsalam675/currency-converter",
+  },
 ];
 
 export const experienceData = [

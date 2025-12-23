@@ -12,7 +12,7 @@ function ProjectCard({ data }) {
         />
       </div>
 
-      <div className="py-6 px-4 flex flex-col flex-grow">
+      <div className="py-6 px-4 flex flex-col flex-grow border-t border-gray-200">
         <h3 className="text-[1.23rem] font-semibold mb-2 text-gray-800">
           {data.title}
         </h3>
